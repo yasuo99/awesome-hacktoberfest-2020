@@ -1,0 +1,1 @@
+https://api.telegram.org/bot1147372360:AAFgBgDdVIqPOUUnGkciiQZsuZhg3OPaPHk/sendMessage?chat_id=@kamejoko&text=@dm%20Áp%20cc
